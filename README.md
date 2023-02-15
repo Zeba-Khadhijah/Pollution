@@ -1,12 +1,10 @@
 # Analysis of the Pollution Inventory 2021
 
 The Pollution inventory dataset collates information on (i) Annual mass releases of emissions to air, 
-controlled waters and sewers,(ii) Waste transfers,(iii) Radioactive waste emissions. 
-
-This dataset covers sites in England for 2021 and can be freely accessed from:
+controlled waters and sewers,(ii) Waste transfers,(iii) Radioactive waste emissions. This dataset covers sites in England for 2021 and can be freely accessed from:
 https://environment.data.gov.uk/portalstg/home/item.html?id=7ddf166a9b41444ebdca1baec1eede38 
 
-The present project only uses the annual emissions data.
+The present project only uses the annual emissions to air water and sewers data. Analysis provides insights on which industries and industrial activities pollute more, which pollutants are released in largest quantities, which route of emmission is most common, and the geographic distribution of the polluting industries across the country. These findings can have implications in environmental policy making to meet sustatainable development goals.
 
 The following libraries were used for data analysis:
 •	Pandas: Used for data analysis and cleaning using data frames
